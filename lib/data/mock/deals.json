@@ -1,0 +1,162 @@
+[
+  {
+    "companyName": "FintechX",
+    "industry": "Fintech",
+    "investment": 500000,
+    "roi": 18,
+    "risk": "Medium",
+    "status": "Open"
+  },
+  {
+    "companyName": "HealthPlus",
+    "industry": "Healthcare",
+    "investment": 300000,
+    "roi": 12,
+    "risk": "Low",
+    "status": "Open"
+  },
+  {
+    "companyName": "AgroBoost",
+    "industry": "Agriculture",
+    "investment": 700000,
+    "roi": 25,
+    "risk": "High",
+    "status": "Closed"
+  },
+  {
+    "companyName": "EduSmart",
+    "industry": "EdTech",
+    "investment": 400000,
+    "roi": 15,
+    "risk": "Medium",
+    "status": "Open"
+  },
+  {
+    "companyName": "GreenEnergy Co",
+    "industry": "Energy",
+    "investment": 900000,
+    "roi": 22,
+    "risk": "High",
+    "status": "Open"
+  },
+  {
+    "companyName": "Foodify",
+    "industry": "FoodTech",
+    "investment": 250000,
+    "roi": 10,
+    "risk": "Low",
+    "status": "Open"
+  },
+  {
+    "companyName": "AutoDrive AI",
+    "industry": "Automobile",
+    "investment": 800000,
+    "roi": 20,
+    "risk": "High",
+    "status": "Closed"
+  },
+  {
+    "companyName": "TravelMate",
+    "industry": "Travel",
+    "investment": 350000,
+    "roi": 14,
+    "risk": "Medium",
+    "status": "Open"
+  },
+  {
+    "companyName": "QuickMart",
+    "industry": "Retail",
+    "investment": 450000,
+    "roi": 16,
+    "risk": "Medium",
+    "status": "Open"
+  },
+  {
+    "companyName": "MedAI",
+    "industry": "Healthcare",
+    "investment": 600000,
+    "roi": 19,
+    "risk": "Medium",
+    "status": "Closed"
+  },
+  {
+    "companyName": "CryptoSafe",
+    "industry": "Fintech",
+    "investment": 1000000,
+    "roi": 30,
+    "risk": "High",
+    "status": "Open"
+  },
+  {
+    "companyName": "FarmEasy",
+    "industry": "Agriculture",
+    "investment": 200000,
+    "roi": 11,
+    "risk": "Low",
+    "status": "Open"
+  },
+  {
+    "companyName": "FitLife",
+    "industry": "Healthcare",
+    "investment": 280000,
+    "roi": 13,
+    "risk": "Low",
+    "status": "Open"
+  },
+  {
+    "companyName": "CloudSync",
+    "industry": "Technology",
+    "investment": 750000,
+    "roi": 21,
+    "risk": "High",
+    "status": "Closed"
+  },
+  {
+    "companyName": "ShopEase",
+    "industry": "Retail",
+    "investment": 380000,
+    "roi": 15,
+    "risk": "Medium",
+    "status": "Open"
+  },
+  {
+    "companyName": "LearnHub",
+    "industry": "EdTech",
+    "investment": 420000,
+    "roi": 17,
+    "risk": "Medium",
+    "status": "Open"
+  },
+  {
+    "companyName": "SolarGrid",
+    "industry": "Energy",
+    "investment": 950000,
+    "roi": 24,
+    "risk": "High",
+    "status": "Open"
+  },
+  {
+    "companyName": "UrbanMove",
+    "industry": "Transport",
+    "investment": 500000,
+    "roi": 18,
+    "risk": "Medium",
+    "status": "Closed"
+  },
+  {
+    "companyName": "FreshBasket",
+    "industry": "FoodTech",
+    "investment": 300000,
+    "roi": 12,
+    "risk": "Low",
+    "status": "Open"
+  },
+  {
+    "companyName": "SecurePay",
+    "industry": "Fintech",
+    "investment": 650000,
+    "roi": 20,
+    "risk": "Medium",
+    "status": "Open"
+  }
+]
